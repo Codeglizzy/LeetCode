@@ -1,0 +1,4 @@
+﻿  LongestCommonPrefix.cpp
+G:\Variety Projects\LongestCommonPrefix\Solution.h(10,21): warning C4018: '<': signed/unsigned mismatch
+G:\Variety Projects\LongestCommonPrefix\LongestCommonPrefix.cpp(10,46): error C2664: 'std::string ReverseString::reverseString(std::vector<char,std::allocator<char>> &)': cannot convert argument 1 from 'const char [12]' to 'std::vector<char,std::allocator<char>> &'
+G:\Variety Projects\LongestCommonPrefix\Solution.h(20,9): message : see declaration of 'ReverseString::reverseString'

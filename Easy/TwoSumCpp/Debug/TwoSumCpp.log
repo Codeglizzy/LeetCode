@@ -1,0 +1,3 @@
+﻿  TwoSumCpp.cpp
+G:\Variety Projects\TwoSumCpp\Solution.h(14,27): warning C4018: '<': signed/unsigned mismatch
+  TwoSumCpp.vcxproj -> G:\Variety Projects\TwoSumCpp\Debug\TwoSumCpp.exe

@@ -1,0 +1,3 @@
+﻿  RomanToInteger.cpp
+G:\Variety Projects\RomanToInteger\Solution.h(20,21): warning C4018: '<': signed/unsigned mismatch
+  RomanToInteger.vcxproj -> G:\Variety Projects\RomanToInteger\Debug\RomanToInteger.exe
